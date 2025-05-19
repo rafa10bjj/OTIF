@@ -39,10 +39,8 @@ A base de dados utilizada é real, com pedidos realizados entre janeiro de 2019 
 
 ---
 
-## Como Executar
+## Segue link para acesso
 
-1. Clone este repositório:
 
-```bash
-git clone https://github.com/seuusuario/logistica-otif-powerbi.git
+https://app.powerbi.com/view?r=eyJrIjoiMWQ4NTg0M2QtYTE0Zi00NmQ1LThmODUtOTkxODgyY2QyNGFmIiwidCI6ImY1MDM4NzBkLTBhYWUtNDI1Mi05ZjE1LWQ2MTg5NmY5ZjZmZiJ9
 
