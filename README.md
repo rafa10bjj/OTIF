@@ -11,6 +11,8 @@ Este projeto é uma solução completa para análise do desempenho logístico fo
 
 A base de dados utilizada é real, com pedidos realizados entre janeiro de 2019 e agosto de 2020 por uma empresa de logística no estado de Santa Catarina.
 
+![Captura de tela 2025-05-19 172452](https://github.com/user-attachments/assets/ff637aec-9498-486f-97a8-16b076c8afa8)
+
 ---
 
 ## Objetivos do Projeto
