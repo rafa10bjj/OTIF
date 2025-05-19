@@ -1,7 +1,7 @@
 # Logística com Cálculo de OTIF - Power BI
 
-![Banner](./assets/banner.png)  
-*Exemplo de dashboard OTIF*
+![Captura de tela 2025-05-19 172324](https://github.com/user-attachments/assets/2922a2ac-617b-48fb-9f2f-1fe1e9b9607e)
+
 
 ---
 
