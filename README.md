@@ -17,6 +17,9 @@ A base de dados utilizada é real, com pedidos realizados entre janeiro de 2019 
 
 ## Objetivos do Projeto
 
+  ![Captura de tela 2025-05-19 172613](https://github.com/user-attachments/assets/6ca1b593-fa43-427c-bfc5-bee0b1ff445b)
+  
+
 - Calcular e monitorar o índice OTIF, com suas componentes:
   - Percentual de pedidos entregues dentro do prazo (On-Time)
   - Percentual de pedidos entregues completos (In-Full)
